@@ -1,0 +1,40 @@
+body {
+    background-color: #9bb8a7;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.header {
+    color: #2f3c10;
+    font-weight:bold;
+    text-align: center;
+}
+
+.create-button, .delete-task {
+    background-color: #913426;
+    border-color: #913426;
+    border-radius: 5px;
+    color:#ebf0ed;
+    font-weight: bolder;
+}
+
+.edit-task {
+    background-color: #2f3c10;
+    border-color: #2f3c10;
+    border-radius: 5px;
+    color:#ebf0ed;
+    font-weight: bolder;
+}
+
+#new-task-date {
+    background-color: #cddbd3;
+}
+
+.card {
+    background-color: #cddbd3;
+}
+
+input[type="text"], textarea {
+    background-color: #d7e2db;
+}
+
+
